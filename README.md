@@ -1,9 +1,9 @@
 # Algorithm_03
 
 • Train/Test the CNN models for the MNIST dataset and get test accuracy
-----------------------------------------------------
 
-# MODEL 1 : 3 Layers with 1 Convolution layer  
+
+## MODEL 1 : 3 Layers with 1 Convolution layer  
 
 1. Model
 
@@ -25,7 +25,7 @@
 
 ![image](https://user-images.githubusercontent.com/47909174/83351668-0ea4a000-a381-11ea-9949-29502e1228e8.png)
 
-# MODEL 2 : 5 Layers with 2 Convolution layer  
+## MODEL 2 : 5 Layers with 2 Convolution layer  
 
 1. Model
 
@@ -50,7 +50,7 @@
 
 ![image](https://user-images.githubusercontent.com/47909174/83352857-85de3200-a389-11ea-8458-f6d4a2d3ef38.png)
 
-# MODEL 3 : 7 Layers with 4 Convolution layer  
+## MODEL 3 : 7 Layers with 4 Convolution layer  
 
 1. Model
 
